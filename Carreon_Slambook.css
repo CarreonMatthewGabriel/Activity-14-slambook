@@ -1,0 +1,19 @@
+body{
+    background-color:paleturquoise;
+    text-align: center justify;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}   
+label {
+    color: rgb(0, 0, 0);
+}
+form {
+    padding: 50px;
+    border:5px solid black;
+    margin: 60px;
+    background-color: rgb(190, 247, 228);
+}
+h1{
+    color: black;
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
